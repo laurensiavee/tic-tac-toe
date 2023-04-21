@@ -1,12 +1,7 @@
 # tic-tac-toe
-
-simple tic-tac-toe as basic exercise on some language.
-</br>
-</br>
-currently avaiable with:
-- vanilla js (HTML, CSS, JS)
-
+## simple tic-tac-toe as basic exercise on some language.
 </br>
 
-## How to run
-run index.html at any browser
+1. vanills js (HTML, CSS, JS).
+</br>
+how to run: open index.html on any browser.
